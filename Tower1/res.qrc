@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>window1.jpg</file>
+        <file>button1.png</file>
+        <file>mainscreen.jpeg</file>
+        <file>returnbtn.png</file>
+        <file>Peashooter.gif</file>
+        <file>choosebtn1.png</file>
+        <file>choosebtn2.png</file>
+        <file>choose1.png</file>
+        <file>choose2.png</file>
+        <file>choose.jpg</file>
+        <file>background1.jpg</file>
+        <file>background2.jpg</file>
+    </qresource>
+</RCC>
